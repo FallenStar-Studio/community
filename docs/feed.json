@@ -1,53 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T22:21:52.418Z",
+  "generatedAt": "2026-09-24T22:31:30.541Z",
   "categories": [
     {
       "id": "DIC_kwDOUqMqWc4DGVM2",
       "name": "Announcements",
       "slug": "announcements",
-      "description": "Updates from maintainers",
+      "description": "Maintainer news and community notices. / 维护者动态与社区公告。",
       "emoji": ":mega:",
+      "isAnswerable": false
+    },
+    {
+      "id": "DIC_kwDOUqMqWc4DGVOu",
+      "name": "Development",
+      "slug": "development",
+      "description": "Client implementation, architecture and development notes. / 客户端实现、架构与开发记录。",
+      "emoji": ":hammer_and_wrench:",
       "isAnswerable": false
     },
     {
       "id": "DIC_kwDOUqMqWc4DGVM3",
       "name": "General",
       "slug": "general",
-      "description": "Chat about anything and everything here",
+      "description": "General Plyra questions and conversation. / Plyra 相关的一般问题与交流。",
       "emoji": ":speech_balloon:",
       "isAnswerable": false
     },
     {
-      "id": "DIC_kwDOUqMqWc4DGVM5",
-      "name": "Ideas",
-      "slug": "ideas",
-      "description": "Share ideas for new features",
-      "emoji": ":bulb:",
-      "isAnswerable": false
-    },
-    {
-      "id": "DIC_kwDOUqMqWc4DGVM7",
-      "name": "Polls",
-      "slug": "polls",
-      "description": "Take a vote from the community",
-      "emoji": ":ballot_box:",
-      "isAnswerable": false
-    },
-    {
       "id": "DIC_kwDOUqMqWc4DGVM4",
-      "name": "Q&A",
-      "slug": "q-a",
-      "description": "Ask the community for help",
+      "name": "Help & Support",
+      "slug": "help-support",
+      "description": "Questions, troubleshooting and community help. / 问题、故障排查与社区互助。",
       "emoji": ":pray:",
       "isAnswerable": true
     },
     {
-      "id": "DIC_kwDOUqMqWc4DGVM6",
-      "name": "Show and tell",
-      "slug": "show-and-tell",
-      "description": "Show off something you've made",
-      "emoji": ":raised_hands:",
+      "id": "DIC_kwDOUqMqWc4DGVM5",
+      "name": "Ideas & Feedback",
+      "slug": "ideas-feedback",
+      "description": "Ideas, proposals and product feedback. / 想法、提议与产品反馈。",
+      "emoji": ":bulb:",
       "isAnswerable": false
     }
   ],
