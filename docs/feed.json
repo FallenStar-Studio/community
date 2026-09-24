@@ -1,7 +1,56 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "categories": [],
+  "generatedAt": "2026-09-24T22:18:44.041Z",
+  "categories": [
+    {
+      "id": "DIC_kwDOUqMqWc4DGVM2",
+      "name": "Announcements",
+      "slug": "announcements",
+      "description": "Updates from maintainers",
+      "emoji": ":mega:",
+      "isAnswerable": false
+    },
+    {
+      "id": "DIC_kwDOUqMqWc4DGVM3",
+      "name": "General",
+      "slug": "general",
+      "description": "Chat about anything and everything here",
+      "emoji": ":speech_balloon:",
+      "isAnswerable": false
+    },
+    {
+      "id": "DIC_kwDOUqMqWc4DGVM5",
+      "name": "Ideas",
+      "slug": "ideas",
+      "description": "Share ideas for new features",
+      "emoji": ":bulb:",
+      "isAnswerable": false
+    },
+    {
+      "id": "DIC_kwDOUqMqWc4DGVM7",
+      "name": "Polls",
+      "slug": "polls",
+      "description": "Take a vote from the community",
+      "emoji": ":ballot_box:",
+      "isAnswerable": false
+    },
+    {
+      "id": "DIC_kwDOUqMqWc4DGVM4",
+      "name": "Q&A",
+      "slug": "q-a",
+      "description": "Ask the community for help",
+      "emoji": ":pray:",
+      "isAnswerable": true
+    },
+    {
+      "id": "DIC_kwDOUqMqWc4DGVM6",
+      "name": "Show and tell",
+      "slug": "show-and-tell",
+      "description": "Show off something you've made",
+      "emoji": ":raised_hands:",
+      "isAnswerable": false
+    }
+  ],
   "posts": [],
   "discussionPageInfo": {
     "hasNextPage": false,
