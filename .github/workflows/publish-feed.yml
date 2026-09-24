@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: public-discussions-feed
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   publish:
