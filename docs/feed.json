@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T22:18:44.041Z",
+  "generatedAt": "2026-09-24T22:20:22.002Z",
   "categories": [
     {
       "id": "DIC_kwDOUqMqWc4DGVM2",
@@ -51,9 +51,37 @@
       "isAnswerable": false
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "id": "D_kwDOUqMqWc4Apggh",
+      "databaseId": 10881057,
+      "number": 1,
+      "title": "Welcome to Plyra Community / 欢迎来到 Plyra 社区",
+      "bodyText": "Welcome! This repository is the public discussion space for Plyra. We are starting with a small, independent Godot Community client prototype and a bilingual community. Please introduce yourself, share what you are exploring, or ask a question in the category that fits best.\nThe current client can browse bundled demo discussions and MOD cards. GitHub sign-in, creating discussions and comments from the client, and Android/Windows/Linux builds are not available yet. The client remains independent of Plyra Compositor, Plyra World, and Steam.\nPlyra Compositor, Plyra World, and a released MOD ecosystem are future work; they are not released products. The MOD directory is metadata-only and this client does not install or execute MODs.\nPlease read Community rules, Contributing, and Roadmap. English and 简体中文 are both welcome.\n\n欢迎来到 Plyra 社区！本仓库是 Plyra 的公开交流空间。我们从一个独立运行的 Godot 社区客户端原型和双语社区开始。欢迎自我介绍、分享正在探索的内容，或在合适的分类中提问。\n当前客户端可以浏览本地演示讨论和 MOD 卡片。客户端内 GitHub 登录、创建讨论与评论，以及 Android/Windows/Linux 构建均尚不可用。客户端可独立运行，不依赖 Plyra Compositor、Plyra World 或 Steam。\nPlyra Compositor、Plyra World 和正式发布的 MOD 生态仍属于未来规划，并非已发布产品。MOD 目录目前仅收录元数据，客户端不会安装或执行 MOD。\n请阅读社区规则、参与贡献和路线图。欢迎使用英语或简体中文交流。",
+      "createdAt": "2026-09-24T22:20:13Z",
+      "updatedAt": "2026-09-24T22:20:13Z",
+      "url": "https://github.com/FallenStar-Studio/community/discussions/1",
+      "category": {
+        "id": "DIC_kwDOUqMqWc4DGVM2",
+        "name": "Announcements",
+        "slug": "announcements"
+      },
+      "author": {
+        "login": "J-x-Z"
+      },
+      "commentCount": 0,
+      "comments": {
+        "totalCount": 0,
+        "pageInfo": {
+          "hasNextPage": false,
+          "endCursor": null
+        },
+        "nodes": []
+      }
+    }
+  ],
   "discussionPageInfo": {
     "hasNextPage": false,
-    "endCursor": null
+    "endCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wOS0yNFQyMjoyMDoxM1rOAKYIIQ=="
   }
 }
